@@ -1,0 +1,15 @@
+{
+  "name": "food_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node food_bot.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^2.1.1",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2"
+  }
+}
