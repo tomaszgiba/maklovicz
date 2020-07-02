@@ -1,5 +1,8 @@
 # maklovicz
+
+Pull Menu from http://www.bistrowarcheturze.pl/ and post to #random chanel on Slack 
  
+## install
 script requires .env file, with correct tokens from Slack APP panel:
 ```
 SLACK_BOT_TOKEN= # Basic Information > App Credentials > Signing Secret
