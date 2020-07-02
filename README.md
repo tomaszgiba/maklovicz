@@ -2,8 +2,8 @@
 
 script requires .env file, with correct tokens:
 ```
-SLACK_BOT_TOKEN=
-SLACK_SIGNING_SECRET=
+SLACK_BOT_TOKEN= # Basic Information > App Credentials > Signing Secret
+SLACK_SIGNING_SECRET= # OAuth & Permissions > Tokens for Your Workspace
 ```
 
 create script `food_bot.sh`:
