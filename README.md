@@ -1,5 +1,11 @@
 # maklovicz
 
+script requires .env file, with correct tokens:
+```
+SLACK_BOT_TOKEN=
+SLACK_SIGNING_SECRET=
+```
+
 create script `food_bot.sh`:
 ```
 cd ~/food_bot/ && yarn start
