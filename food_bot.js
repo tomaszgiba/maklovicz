@@ -76,7 +76,7 @@ try {
       console.log(text)
 
       console.log("Sending text...")
-      // send(text)
+      send(text)
     }
   });
 }
