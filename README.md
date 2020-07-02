@@ -1,6 +1,6 @@
 # maklovicz
-
-script requires .env file, with correct tokens:
+ 
+script requires .env file, with correct tokens from Slack APP panel:
 ```
 SLACK_BOT_TOKEN= # Basic Information > App Credentials > Signing Secret
 SLACK_SIGNING_SECRET= # OAuth & Permissions > Tokens for Your Workspace
