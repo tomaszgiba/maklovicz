@@ -5,8 +5,8 @@ Pull Menu from http://www.bistrowarcheturze.pl/ and post to #random chanel on Sl
 ## install
 script requires .env file, with correct tokens from Slack APP panel:
 ```
-SLACK_BOT_TOKEN= # Basic Information > App Credentials > Signing Secret
-SLACK_SIGNING_SECRET= # OAuth & Permissions > Tokens for Your Workspace > Bot User OAuth Access Token
+SLACK_BOT_TOKEN= # OAuth & Permissions > Tokens for Your Workspace > Bot User OAuth Access Token
+SLACK_SIGNING_SECRET= # Basic Information > App Credentials > Signing Secret
 ```
 
 create script `food_bot.sh`:
